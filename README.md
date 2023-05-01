@@ -1,7 +1,7 @@
-
+![](https://github.com/sadasiva111/sadasiva111/blob/ee4baa4114985770edc9af5e23eb46f19e50a325/Banner.gif)
 <h1 align="center">Hi 👋, I'm Obi Reddy</h1>
 <h3 align="center">Full Stack Python Developer with Expertise in Java, Python, JavaScript, HTML/CSS, and DevOps Practices</h3>
-<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="coding">
+<!--<img src="https://so-development.org/wp-content/uploads/2021/11/full-stack-development.gif" alt="coding">-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obi-reddy&label=Profile%20views&color=0e75b6&style=flat" alt="obi-reddy" /> </p>
 
